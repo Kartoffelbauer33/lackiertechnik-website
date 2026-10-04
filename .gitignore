@@ -1,0 +1,24 @@
+# Standard-Ausschlüsse (git-sichern)
+node_modules/
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+*.igc
+*.apk
+*.mov
+*.mp4
+*.zip
+*.log
+*.xlsx
+.DS_Store
+.claude/settings.local.json
+dist/
+build/
+.next/
+DerivedData/
+Pods/
+__pycache__/
+.venv/
+local-data/

@@ -22,3 +22,7 @@ Pods/
 __pycache__/
 .venv/
 local-data/
+
+# Interne Notizen – bleiben nur lokal (Repo ist öffentlich)
+UMZUG_WORLD4YOU.md
+seo_optimizing/

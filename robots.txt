@@ -1,12 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap
 Sitemap: https://www.lackiertechnikschedler.at/sitemap.xml
-
-# Optimierung für Suchmaschinen
-Crawl-delay: 1
-
-# Berkmann Lackieranlagen relevante Keywords für Crawler
-# Lackieranlagen Service, Berkmann Service, Wartung Lackieranlage
-# Doren, Vorarlberg, Bregenz, Dornbirn, Feldkirch, DACH-Raum
